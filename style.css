@@ -1,0 +1,43 @@
+#heading {
+  text-align: center;
+  font-family: "Times";
+  font-style: italic;
+}
+
+button {
+  margin: auto;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.huh {
+  border: 3px solid black;
+}
+#container {
+  background-color: gray;
+  height: 600px;
+  width: 600px;
+  margin: auto; // keep the box centered
+  border: 3px solid black;
+
+}
+
+.square {
+  background-color: white;
+  /* border: 0px solid white; // invisible border basically */
+  float: left;
+  box-sizing: border-box;
+}
+
+.marked {
+
+}
+
+/*
+.square:hover {
+  background-color: pink;
+}
+*/
+#button {
+
+}
