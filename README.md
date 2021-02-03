@@ -1,5 +1,7 @@
+https://vongk97.github.io/etch-a-sketch/
+
 # etch-a-sketch
-Things I need to make:
+To-Do:
 A 16x16 grid will appear
 The user can click on each box and it will turn black
 The user can press a button that can resize the grid to any dimension
